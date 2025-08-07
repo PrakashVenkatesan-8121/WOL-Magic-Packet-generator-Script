@@ -15,7 +15,6 @@ A powerful PowerShell-based Wake-on-LAN (WOL) toolkit for remotely waking up net
 - [Troubleshooting](#troubleshooting)
 - [How Wake-on-LAN Works](#how-wake-on-lan-works)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🔍 Overview
 
@@ -240,27 +239,11 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 - Add comments for complex logic
 - Update documentation as needed
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - PowerShell community for networking examples
 - Wake-on-LAN specification contributors
 - Network administrators who provided testing feedback
-
-## 📞 Support
-
-If you encounter issues or have questions:
-
-1. **Check the [Troubleshooting](#troubleshooting) section**
-2. **Search existing [Issues](https://github.com/PrakashVenkatesan-8121/WOL-Magic-Packet-generator-Script/issues)**
-3. **Create a new issue** with detailed information:
-   - PowerShell version
-   - Network configuration
-   - Error messages
-   - Steps to reproduce
 
 ---
 
